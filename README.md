@@ -16,6 +16,8 @@
 
 - [How to contribute to open source](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/)
 
+- [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ## Papers
 - [Attention is all you need](./resource/NIPS-2017-attention-is-all-you-need-Paper.pdf)
+
